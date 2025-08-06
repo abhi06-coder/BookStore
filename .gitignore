@@ -1,0 +1,23 @@
+# Dependencies
+/node_modules
+/frontend/node_modules
+/Backend/node_modules
+# Build folder
+
+
+
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Misc
+.DS_Store
+
+# PNP files from yarn 2+
+.pnp
+.pnp.js
+
+# Testing
+/coverage
